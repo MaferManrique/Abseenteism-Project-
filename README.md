@@ -1,6 +1,4 @@
-# Game project 
-
-Para correr el juego debes seguir las siguentes instrucciones en la terminal
+# Absenteeism project 
 
 ```sh
 Business Case Study: Employee Absenteeism
