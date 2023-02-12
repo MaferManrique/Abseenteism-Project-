@@ -4,7 +4,7 @@
 Business Case Study: Employee Absenteeism
 The database was created with records of absenteeism at work
 
-The business Task
+The business Task:
 The exercise will address Absenteeism at a company during work time.
 ```
 
